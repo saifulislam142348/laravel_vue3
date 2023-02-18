@@ -1,14 +1,3 @@
 <template>
-
-    <span>{{ name }}</span>
+    <h1>data insert page</h1>
 </template>
-<script>
-export default {
-   
-    data(){
-        return{
-            name:'saiful islam'
-        }
-    }
-}
-</script>
